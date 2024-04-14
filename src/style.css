@@ -7,12 +7,11 @@ body {
   background-color: #0f0f0f;
 }
 
-.root,
-.root2 {
+.root {
   display: grid;
   height: 100vh;
 }
 
 .root .alive {
-  background-color: blue;
+  background-color: red;
 }
